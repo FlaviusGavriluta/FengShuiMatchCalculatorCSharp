@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codecool.FengShuiMatchCalculator", "Codecool.FengShuiMatchCalculator\Codecool.FengShuiMatchCalculator.csproj", "{45ABC928-28ED-4E9F-9FDF-90B112922882}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45ABC928-28ED-4E9F-9FDF-90B112922882}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45ABC928-28ED-4E9F-9FDF-90B112922882}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45ABC928-28ED-4E9F-9FDF-90B112922882}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45ABC928-28ED-4E9F-9FDF-90B112922882}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
